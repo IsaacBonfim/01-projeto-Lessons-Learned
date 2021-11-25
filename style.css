@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(253, 251, 251);
+    background-color: rgb(253, 251, 251);    
 }
 
 header#cabecalho {
@@ -8,6 +8,11 @@ header#cabecalho {
 }
 
 img#minha_foto {
-    position: fixed;
-    margin-top: 80px;
+    display: block;
+    margin-top: 70px;
+}
+
+ol#licoes_aprendidas {
+    display: block;
+    margin-top: 70px;
 }
