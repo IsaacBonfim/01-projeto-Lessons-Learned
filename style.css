@@ -6,3 +6,8 @@ header#cabecalho {
     position: fixed;
     top: 0px;
 }
+
+img#minha_foto {
+    position: fixed;
+    margin-top: 80px;
+}
